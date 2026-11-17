@@ -20,7 +20,7 @@
 <a href="mailto:sagorkhanomi@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://devsagor007.vercel.app/assets/pdf/Md-Sagor-Hossen_Resume.pdf">
+<a href="https://github.com/DevSagar007/DevSagar007/blob/main/Md-Sagor-Hossen-Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-Download%20CV-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
 </a>
 
