@@ -59,7 +59,7 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
 ### Backend, Database & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase,laravel&perline=8" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase&perline=7" alt="Backend and database technologies" />
 </p>
 
 ### DevOps & Tools
