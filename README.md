@@ -11,7 +11,7 @@
 <a href="https://devsagor007.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/sagor-hossen-1b8482253/">
+<a href="https://www.linkedin.com/in/md-sagor-hossen-1b8482253/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/sagorKhanomi">
@@ -184,12 +184,13 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevSagar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Sagor's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSagar007&theme=tokyonight" alt="Sagor's GitHub statistics" />
 <img width="49%" src="https://streak-stats.demolab.com?user=DevSagar007&theme=tokyonight&hide_border=true&background=0D1117" alt="Sagor's GitHub streak" />
 
 <br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSagar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSagar007&theme=tokyonight" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSagar007&theme=tokyonight" alt="Repositories per language" />
 
 </div>
 
@@ -212,7 +213,7 @@ Have a role, project, or idea in mind? I’m open to new opportunities and would
 <a href="mailto:sagorkhanomi@gmail.com">
   <img src="https://img.shields.io/badge/sagorkhanomi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sagor" />
 </a>
-<a href="https://www.linkedin.com/in/sagor-hossen-1b8482253/">
+<a href="https://www.linkedin.com/in/md-sagor-hossen-1b8482253/">
   <img src="https://img.shields.io/badge/Sagor%20Hossen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sagor Hossen on LinkedIn" />
 </a>
 <a href="https://x.com/sagorKhanomi">
