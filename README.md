@@ -184,21 +184,13 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSagar007&theme=tokyonight" alt="Sagor's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=DevSagar007&theme=tokyonight&hide_border=true&background=0D1117" alt="Sagor's GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSagar007&theme=tokyonight" alt="GitHub profile and contributions" />
 
-<br />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSagar007&theme=tokyonight" alt="GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=DevSagar007&theme=tokyonight&hide_border=true&background=1A1B27&card_width=340&card_height=200" alt="GitHub contribution streak" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSagar007&theme=tokyonight" alt="Most used languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSagar007&theme=tokyonight" alt="Repositories per language" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevSagar007&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub contribution activity graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSagar007&theme=tokyonight" alt="Top languages by commit" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSagar007&theme=tokyonight" alt="Top languages by repository" />
 
 </div>
 
