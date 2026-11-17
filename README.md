@@ -118,20 +118,19 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏢 TDevs</h3>
+      <p><em>Software Development Company Website</em></p>
+      <p>Professional company website with service pages, digital product listings, interactive navigation, and responsive layouts.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3, SCSS, Bootstrap 5, JavaScript</p>
+      <a href="https://tdevs.co/"><img src="https://img.shields.io/badge/Live%20Website-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TDevs live website" /></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>📈 MarketFlow <sup>🚧 In Development</sup></h3>
       <p><em>All-in-One Digital Marketing & Automation SaaS</em></p>
       <p>An ongoing full-stack SaaS for marketing automation, CRM, WhatsApp messaging, campaign management, and business analytics, bringing customer engagement, marketing operations, and commerce management into one platform.</p>
       <p><strong>Stack:</strong> Next.js, React.js, TypeScript, Tailwind CSS, shadcn/ui, Redux Toolkit, Recharts / ApexCharts</p>
       <a href="https://marketflow-amber.vercel.app/"><img src="https://img.shields.io/badge/Live%20Frontend-0072FF?style=for-the-badge&logo=vercel&logoColor=white" alt="MarketFlow live frontend" /></a>
       <a href="https://marketflow-2eji1uvp.on-forge.com/admin/login"><img src="https://img.shields.io/badge/Admin%20Panel-111827?style=for-the-badge&logo=laravel&logoColor=white" alt="MarketFlow admin panel" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Orvina</h3>
-      <p><em>Sustainable Green Energy & Loan Platform</em></p>
-      <p>Green-energy investment and loan platform with separate user and admin portals: JWT auth, dashboards, investment management, wallet operations, and real-time data.</p>
-      <p><strong>Stack:</strong> Next.js, Tailwind CSS, RTK Query, REST API, JWT</p>
-      <a href="https://orvina.vercel.app/"><img src="https://img.shields.io/badge/Live%20Website-0072FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Orvina live website" /></a>
-      <a href="https://orvina.tdevs.co/admin"><img src="https://img.shields.io/badge/Admin%20Panel-111827?style=for-the-badge&logo=laravel&logoColor=white" alt="Orvina admin panel" /></a>
     </td>
   </tr>
   <tr>
@@ -144,15 +143,22 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
       <a href="https://trustep.tdevs.co/admin"><img src="https://img.shields.io/badge/Admin%20Panel-111827?style=for-the-badge&logo=laravel&logoColor=white" alt="Trustep admin panel" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Falcon</h3>
-      <p><em>E-commerce Product Search & Checkout</em></p>
-      <p>Angular storefront with a 520-product catalog, URL-based search, filtering, sorting and pagination, a signals-based cart synced across tabs, a Zod-validated checkout, and SEO with JSON-LD and a sitemap.</p>
-      <p><strong>Stack:</strong> Angular, TypeScript, Tailwind CSS, Angular SSR, Signals, Zod</p>
-      <a href="https://falcon-angular-ecommerce.vercel.app/"><img src="https://img.shields.io/badge/Live%20Website-0072FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Falcon live website" /></a>
-      <a href="https://github.com/DevSagar007/falcon-angular-ecommerce"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Falcon source code" /></a>
+      <h3>🌱 Orvina</h3>
+      <p><em>Sustainable Green Energy & Loan Platform</em></p>
+      <p>Green-energy investment and loan platform with separate user and admin portals: JWT auth, dashboards, investment management, wallet operations, and real-time data.</p>
+      <p><strong>Stack:</strong> Next.js, Tailwind CSS, RTK Query, REST API, JWT</p>
+      <a href="https://orvina.vercel.app/"><img src="https://img.shields.io/badge/Live%20Website-0072FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Orvina live website" /></a>
+      <a href="https://orvina.tdevs.co/admin"><img src="https://img.shields.io/badge/Admin%20Panel-111827?style=for-the-badge&logo=laravel&logoColor=white" alt="Orvina admin panel" /></a>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Eduman</h3>
+      <p><em>Education & Online Courses HTML Template</em></p>
+      <p>Responsive template for universities, academies, training centers, and LMS platforms with reusable sections, course listings, and pixel-perfect layouts.</p>
+      <p><strong>Stack:</strong> HTML5, SCSS, Bootstrap 5, JavaScript</p>
+      <a href="https://themeforest.net/item/eduman-education-online-courses-html-template/36636891"><img src="https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=envato&logoColor=white" alt="Eduman project" /></a>
+    </td>
     <td width="50%" valign="top">
       <h3>🔐 Escrova</h3>
       <p><em>Escrow Marketplace for Business Flipping, Auction & Bidding</em></p>
@@ -160,29 +166,6 @@ My strongest expertise is in **React.js, Next.js, TypeScript, Redux, TanStack Qu
       <p><strong>Stack:</strong> Laravel, PHP, MySQL, HTML5 / CSS3</p>
       <a href="https://escrova.tdevs.co/"><img src="https://img.shields.io/badge/Live%20Demo-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Escrova live demo" /></a>
       <a href="https://codecanyon.net/item/escrova-independent-trust-hold-marketplace-for-business-flipping-auction-and-bidding-platform/61039939"><img src="https://img.shields.io/badge/CodeCanyon-82B541?style=for-the-badge&logo=envato&logoColor=white" alt="Escrova on CodeCanyon" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Inventual</h3>
-      <p><em>Next.js Inventory Admin Template + RTL</em></p>
-      <p>Inventory management dashboard for products, stock, sales, and purchases, with reusable components, data tables, and ApexCharts analytics in a responsive UI with RTL support.</p>
-      <p><strong>Stack:</strong> Next.js, React.js, Tailwind CSS, Material UI, ApexCharts</p>
-      <a href="https://themeforest.net/item/inventual-angular-inventory-admin-template/35814136"><img src="https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=envato&logoColor=white" alt="Inventual project" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 TDevs</h3>
-      <p><em>Software Development Company Website</em></p>
-      <p>Professional company website with service pages, digital product listings, interactive navigation, and responsive layouts.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, SCSS, Bootstrap 5, JavaScript</p>
-      <a href="https://tdevs.co/"><img src="https://img.shields.io/badge/Live%20Website-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TDevs live website" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Eduman</h3>
-      <p><em>Education & Online Courses HTML Template</em></p>
-      <p>Responsive template for universities, academies, training centers, and LMS platforms with reusable sections, course listings, and pixel-perfect layouts.</p>
-      <p><strong>Stack:</strong> HTML5, SCSS, Bootstrap 5, JavaScript</p>
-      <a href="https://themeforest.net/item/eduman-education-online-courses-html-template/36636891"><img src="https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=envato&logoColor=white" alt="Eduman project" /></a>
     </td>
   </tr>
 </table>
